@@ -8,6 +8,7 @@
 ##Rediscovering ActiveRecord: Mario Alberto Chavez
 - [Work](https://michelada.io/)
 - [Git](https://github.com/mariochavez)
+
 Summary:
 >Being a Rails developer is more than just understanding how to use the
 >Framework to develop applications.
@@ -21,6 +22,7 @@ Summary:
 
 ##Inside ActiveJob: Jerry D'Antonio
 - [Git](https://github.com/jdantonio)
+
 Summary:
 >ActiveJob made a huge impact when it landed Rails 4.2. Most job processors
 >support it and many developers use it. But few ever need to dig into the
@@ -101,8 +103,8 @@ Summary:
 - [Git](https://github.com/tenderlove)
 
 ##Finding Translations: Localization and Internationalization: Valerie Woolard
--[Git](https://github.com/valeriecodes)
--[WWW](http://www.valeriewoolard.com/)
+- [Git](https://github.com/valeriecodes)
+- [WWW](http://www.valeriewoolard.com/)
 
 Summary:
 >Translation, be it a word, sentence, concept, or idea, for different audiences
