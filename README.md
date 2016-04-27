@@ -1,6 +1,6 @@
 # Railsconf 2016
 
-###Wed may 4th
+`Wed may 4th`
 
 ##Keynote: Jeremy Daer
 - [Git](https://github.com/jeremy)
@@ -51,7 +51,7 @@ Summary:
 - [Git](https://github.com/nmeans)
 - [Work](https://www.wellmatchhealth.com/)
 
-###Thu may 5th
+`Thu may 5th`
 
 ##Keynote: Chanelle Henry
 - [Work](http://www.bluewolf.com/)
@@ -97,7 +97,7 @@ Summary:
 
 ##Lightning talks
 
-###Fri may 6th
+`Fri may 6th`
 
 ##Keynote: Aaron Patterson
 - [Git](https://github.com/tenderlove)
